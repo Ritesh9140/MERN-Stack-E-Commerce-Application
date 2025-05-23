@@ -3,7 +3,7 @@
 ## Overview
 This is a full-featured E-Commerce web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application provides a complete online shopping experience with user authentication, product management, shopping cart functionality, order processing, and payment integration.
 
-![E-Commerce Application](https://example.com/demo-image.png)
+
 
 ## Features
 
